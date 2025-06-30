@@ -2,7 +2,7 @@
   "name": "s06-02",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/jorgeireyjin/ejem-deplo",
+  "homepage": "https://jorgeireyjin.github.io/ejem-deplo",
   "type": "module",
   "scripts": {
     "dev": "vite",
